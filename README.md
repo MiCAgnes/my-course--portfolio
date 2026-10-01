@@ -9,10 +9,10 @@ Welcome to my academic portfolio for CEP - Essential Tooling for Programmers!
 - Favorite Programming Language: Python
 
 ## Course Goals
-- [ ] Learn version control with Git and GitHub
+- [ ] Pass the course
 - [ ] Complete all lab assignments
-- [ ] Build a professional portfolio
-- [ ] Collaborate on group projects
+- [ ] Not fail any assignments
+- [ ] Learn as much as possible
 
 ## Projects
 *This section will be updated as I complete assignments*
